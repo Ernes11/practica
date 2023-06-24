@@ -1,0 +1,7 @@
+Total bytecount:1185146
+Files list:
+--------------
+.gitignore
+package-lock.json
+package.json
+README.md
